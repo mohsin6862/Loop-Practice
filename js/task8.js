@@ -12,4 +12,4 @@ function hightScores (scores){
 }
 
 maxScore = hightScores(scores);
-document.write(maxScore);
+document.write("Highest Score =" + maxScore);
